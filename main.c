@@ -1,9 +1,9 @@
 // Author: Khalil Stroman kzs5955@psu.edu
-// Collaborator:
-// Collaborator:
-// Collaborator:
-// Section: 1
-// Breakout: 12
+// Collaborator: Daniel Stebbins drs5972@psu.edu
+// Collaborator: David Kim dkk5396@psu.edu
+// Collaborator: Emanuel Bassill Chuckran eab6017@psu.edu
+// Section: 12
+// Breakout: 2
 #include <stdio.h>
 #include <readline/readline.h>
 #include <stdlib.h>
